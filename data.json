@@ -1,22 +1,29 @@
 {
   "arabica": [
     {
-      "foto": "images/produk/product_capuchino.jpg",
-      "nama": "Cappuccino Arabica",
+      "foto": "https://id-live-01.slatic.net/p/787decd093a6c5ecea6aad4ca6ebf078.jpg",
+      "nama": "Arabica Gayo",
       "size": "500 Gram",
       "harga": "200.000",
       "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
     },
     {
-      "foto": "images/produk/product_espresso.jpg",
-      "nama": "Pahit Arabica",
+      "foto": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//95/MTA-7510378/jj_royal_jj_royal_kopi_arabica_toraja_beans_-200g-_full07_hly1wa2l.jpg",
+      "nama": "Arabica Toraja",
       "size": "100 Gram",
       "harga": "100.000",
       "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
     },
     {
-      "foto": "images/produk/product_latte.jpg",
-      "nama": "Latte Arabica",
+      "foto": "https://dikemas.com/uploads/2020/07/keunikan-kopi-wamena-yang-khas-kopi-terbaik-dari-papua-720x415.jpg",
+      "nama": "Arabica Wamena",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+    },
+    {
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefJmHi9QnIx7FvygA5uXGuH0EYLaE1stLVxj_FcCWpA&s",
+      "nama": "Arabica Flores",
       "size": "150 Gram",
       "harga": "150.000",
       "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
@@ -24,15 +31,29 @@
   ],
   "robusta": [
     {
-      "foto": "images/produk/product_kopi_susu.jpg",
-      "nama": "Kopsus Robusta",
+      "foto": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/2/15/a352e03f-bc2f-4dae-a796-2ab45c8809fe.jpg",
+      "nama": "Robusta Temanggung",
       "size": "100 Gram",
       "harga": "80.000",
       "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
     },
     {
-      "foto": "images/produk/product_latte.jpg",
-      "nama": "Latte Robusta",
+      "foto": "https://down-id.img.susercontent.com/file/8bb41eb9a142e32f7e88d98300388c4f",
+      "nama": "Robusta Flores",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "https://images.tokopedia.net/img/cache/700/product-1/2017/4/4/46679803/46679803_e5699f4f-3ceb-4ad5-9b11-befbadfdf040_2048_0",
+      "nama": "Robusta Toraja",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "https://1.bp.blogspot.com/-UzgnOro5Q78/V_t8So9EeuI/AAAAAAAApMU/RVON-HZu-vg3s1okHHy04uHkJMswGRveACLcB/s2048/kopi-robusta.jpg",
+      "nama": "Robusta Pupuan",
       "size": "150 Gram",
       "harga": "150.000",
       "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
@@ -45,15 +66,57 @@
       "size": "100 Gram",
       "harga": "10.000",
       "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+    },
+    {
+      "foto": "https://asset.kompas.com/crops/rnP4FAEi-MrCLZq_2uTLtYvn_j8=/83x67:940x638/750x500/data/photo/2022/10/17/634d11c2c0a21.jpg",
+      "nama": "Milkshake Coklat",
+      "size": "100 Gram",
+      "harga": "10.000",
+      "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+    },
+    {
+      "foto": "https://cdn0-production-images-kly.akamaized.net/dQ8fyTUjAgr2B93a5Ijf8dq7lN0=/1x39:1000x602/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4369921/original/034021100_1679632926-shutterstock_2100091099.jpg",
+      "nama": "Es Teler",
+      "size": "100 Gram",
+      "harga": "10.000",
+      "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+    },
+    {
+      "foto": "https://cdn.idntimes.com/content-images/post/20200513/80804982-1633679013439729-4856995162210626944-n-e76c8100d5dd1d2e835cbc2edf086597.jpg",
+      "nama": "Jus Alpukat",
+      "size": "100 Gram",
+      "harga": "10.000",
+      "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
     }
   ],
   "cemilan": [
     {
-      "nama": "Gorengan",
+      "nama": "Risol Mayo",
       "size": "100ml",
       "harga": "10.000",
       "link": "#",
-      "foto": "images/produk/product_kopi_susu.jpg"
+      "foto": "https://www.astronauts.id/blog/wp-content/uploads/2023/11/Resep-Risol-Mayo-Lumer-Cocok-Untuk-Usaha-Kuliner-1200x900.jpg"
+    },
+    {
+      "nama": "Kentang Goreng",
+      "size": "100ml",
+      "harga": "10.000",
+      "link": "#",
+      "foto": "https://asset.kompas.com/crops/3_pP4G38V1ulz1HVZJuCZv0Cjy8=/0x2:880x588/750x500/data/photo/2022/09/14/632159cd811f2.jpg"
+    },
+    {
+      "nama": "Dimsum",
+      "size": "100ml",
+      "harga": "10.000",
+      "link": "#",
+      "foto": "https://asset.kompas.com/crops/DEDxeclyBPPZ2miRZhxGFJxhHU0=/0x175:800x708/750x500/data/photo/2021/01/18/60053789dc100.jpg"
+    },
+    {
+      "nama": "Roti Bakar",
+      "size": "100ml",
+      "harga": "10.000",
+      "link": "#",
+      "foto": "https://circlekindo.com/files/media/2023/09/roti-bakar-cokelat-keju-circle-k-korner.jpg"
     }
   ]
 }
